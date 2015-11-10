@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  user_id: 1
+  initial_price: 1
+  selling_price: 1
+  subcategory_id: 1
+  opening_date: MyString
+  closing_date: 2015-11-11
+  availibility: MyString
+
+two:
+  name: MyString
+  description: MyText
+  user_id: 1
+  initial_price: 1
+  selling_price: 1
+  subcategory_id: 1
+  opening_date: MyString
+  closing_date: 2015-11-11
+  availibility: MyString
